@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aymen 👋
 
 I'm a passionate Computer Science student and developer from Morocco, with a strong focus on software engineering and artificial intelligence. I love building practical solutions and diving deep into machine learning.
 
@@ -6,7 +6,7 @@ I'm a passionate Computer Science student and developer from Morocco, with a str
 
 - 🔭 I’m currently studying at the École Marocaine des Sciences de l'Ingénieur (EMSI).
 - 🌱 I’m currently deepening my knowledge in **Software Development** and **AI/ML**.
-- 🎯 **Current Goal:** I am actively seeking a 2-month summer internship for July and August 2026 (ideally in Japan!).
+- 🎯 **Current Goal:** I am actively seeking a 2-month summer internship for July and August 2026 .
 - ⚡ **Fun fact:** When I'm not coding, I'm currently learning the Japanese language.
 
 ## 💻 Tech Stack & Tools
