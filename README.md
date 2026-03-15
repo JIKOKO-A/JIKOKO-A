@@ -20,7 +20,7 @@ I'm a passionate Computer Science student and developer from Morocco, with a str
 **Concepts:** * Artificial Intelligence, Machine Learning (KNN, K-means, CNNs), Operations Research
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JIKOKO-A&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
