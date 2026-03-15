@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**JIKOKO-A/JIKOKO-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student and developer from Morocco, with a strong focus on software engineering and artificial intelligence. I love building practical solutions and diving deep into machine learning.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at the École Marocaine des Sciences de l'Ingénieur (EMSI).
+- 🌱 I’m currently deepening my knowledge in **Software Development** and **AI/ML**.
+- 🎯 **Current Goal:** I am actively seeking a 2-month summer internship for July and August 2026 (ideally in Japan!).
+- ⚡ **Fun fact:** When I'm not coding, I'm currently learning the Japanese language.
+
+## 💻 Tech Stack & Tools
+
+**Languages:** * C#, Python, SQL
+
+**Libraries & Frameworks:** * .NET, PyTorch 
+
+**Tools & Infrastructure:** * Docker, SQL & NoSQL Databases, Data Warehousing
+
+**Concepts:** * Artificial Intelligence, Machine Learning (KNN, K-means, CNNs), Operations Research
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/...)
+- **Email:** your.email@example.com
+- **Portfolio:** [Your Website URL, if you have one](https://...)
