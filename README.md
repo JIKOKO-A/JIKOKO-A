@@ -22,8 +22,3 @@ I'm a passionate Computer Science student and developer from Morocco, with a str
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JIKOKO-A&show_icons=true&theme=radical)
 
-## 📫 How to reach me
-
-- **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/...)
-- **Email:** your.email@example.com
-- **Portfolio:** [Your Website URL, if you have one](https://...)
